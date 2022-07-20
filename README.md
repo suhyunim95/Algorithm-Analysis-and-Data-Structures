@@ -1,19 +1,21 @@
 # Algorithm Analysis and Data Structures
-> Homeworks 
 
 ## Table of Contents
-* [Selection Sort](#Selection-Sort)
-* [Tertiary Search](#Tertiary-search)
+* [HW1](#HW1)
+* [HW2](#HW2)
+* [HW3](#HW3)
+* [HW4](#HW4)
+* [HW5](#HW5)
 * [Programming Language](#Programming-Language)
 * [Contact](#Contact)
 
-
-## Selection Sort
+## HW1
+### Selection Sort
 - Sorting a single linked list in ascending order swapping nodes.
 - I made my own single linked list with 15 different integers nodes.
 - This will show before & after swapping of the list.
 
-## Tertiary search
+### Tertiary search
 - Finding the index of a certain number in an array by splitting it in three ways with recursive method.
 - If the number is not in the array, it will say "The number is not in this array."
 
