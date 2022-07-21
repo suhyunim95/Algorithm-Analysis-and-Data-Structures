@@ -19,6 +19,15 @@
 - Finding the index of a certain number in an array by splitting it in three ways with recursive method.
 - If the number is not in the array, it will say "The number is not in this array."
 
+## HW2
+### Binary Search Tree (BST)
+- Traverse BST with inorder method : 
+  1. Traverse the left subtree
+  2. Visit the root.
+  3. Traverse the right subtree
+- Delete '40'
+- Delete '20'
+
 ## Programming Language
 - C++
 
