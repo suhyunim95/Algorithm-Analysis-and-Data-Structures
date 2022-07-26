@@ -20,7 +20,7 @@
 - Finding the index of a certain number in an array by splitting it in three ways with recursive method.
 - If the number is not in the array, it will say "The number is not in this array."
 
-## Binary Search Tree (BST)
+## Binary Search Tree
 - Traverse BST with inorder method : 
   1. Traverse the left subtree
   2. Visit the root.
@@ -33,14 +33,13 @@
 - 2. New Array Using Floyd's Algorithm
 - 3. Sort Array into Descending Order
 
-## Depth First Search (DFS) traversal
+## Depth First Search Traversal
 - Begins at the root node and proceeds through the nodes as far as possible until we reach the node with no unvisited nearby nodes
 
-## Breadth First Search (BFS) traversal 
+## Breadth First Search Traversal 
 - Walk through all nodes on the same level before moving on to the next level
 
-## DFS & BFS topological sort for the 1st graph with 8 vertices
-## DFS & BFS topological sort for the 2nd graph with 14 vertices
+## DFS & BFS topological Sort
 
 ## Programming Language
 - C++
