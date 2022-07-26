@@ -10,12 +10,12 @@
 * [Contact](#Contact)
 
 ## HW1
-### Selection Sort
+### 1. Selection Sort
 - Sorting a single linked list in ascending order swapping nodes.
 - I made my own single linked list with 15 different integers nodes.
 - This will show before & after swapping of the list.
 
-### Tertiary search
+### 2. Tertiary search
 - Finding the index of a certain number in an array by splitting it in three ways with recursive method.
 - If the number is not in the array, it will say "The number is not in this array."
 
@@ -29,18 +29,18 @@
 - Delete '20'
 
 ## HW3
-### Read an Original Array
+### 1. Read an Original Array
 
-### New Array Using Floyd's Algorithm
+### 2. New Array Using Floyd's Algorithm
 - Finding the shortest path between all the pairs of vertices in a weighted graph
 
-### Sort Array into Descending Order
+### 3. Sort Array into Descending Order
 
 ## HW4
-### Depth First Search (DFS) traversal
+### 1. Depth First Search (DFS) traversal
 - Begins at the root node and proceeds through the nodes as far as possible until we reach the node with no unvisited nearby nodes
 
-### Breadth First Search (BFS) traversal 
+### 2. Breadth First Search (BFS) traversal 
 - Walk through all nodes on the same level before moving on to the next level
 
 ## HW5
