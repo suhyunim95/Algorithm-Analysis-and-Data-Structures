@@ -28,6 +28,25 @@
 - Delete '40'
 - Delete '20'
 
+## HW3
+### Read an Original Array
+
+### New Array Using Floyd's Algorithm
+- Finding the shortest path between all the pairs of vertices in a weighted graph
+
+### Sort Array into Descending Order
+
+## HW4
+### Depth First Search (DFS) traversal
+- Begins at the root node and proceeds through the nodes as far as possible until we reach the node with no unvisited nearby nodes
+
+### Breadth First Search (BFS) traversal 
+- Walk through all nodes on the same level before moving on to the next level
+
+## HW5
+### 1. DFS & BFS topological sort for the 1st graph with 8 vertices
+### 2. DFS & BFS topological sort for the 2nd graph with 14 vertices
+
 ## Programming Language
 - C++
 
